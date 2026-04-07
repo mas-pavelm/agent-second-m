@@ -1,0 +1,12 @@
+version: '3.8'
+
+services:
+  agent:
+    build: .
+    container_name: agent-second-m
+    restart: always
+    env_file:
+      - .env
+    volumes:
+      - ./vault:/app/vault
+      - ./claude-config:/root/.config/claude

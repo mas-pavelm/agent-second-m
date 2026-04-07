@@ -6,10 +6,10 @@ Curated knowledge that persists across sessions. Part of the 3-layer memory arch
 
 | Field | Value |
 |-------|-------|
-| Name | [Your name] |
-| Timezone | [Your timezone, e.g., UTC+5] |
-| Location | [City/Country] |
-| Primary language | [e.g., Russian/English] |
+| Name | Pavel (PavelMak) |
+| Timezone | Europe/Amsterdam |
+| Location | — |
+| Primary language | Russian |
 
 ## Preferences
 
@@ -38,14 +38,15 @@ Curated knowledge that persists across sessions. Part of the 3-layer memory arch
 
 ### ONE Big Thing (This Week)
 <!-- From goals/3-weekly.md -->
-- [ ] [Current week's main focus]
+- [ ] Созвониться/встретиться с партнёром по производству — согласовать дату встречи по соглашению учредителей
 
 ### Hot Projects
-1. [Project name] — [status/next action]
+1. Производство — аудит загрузки оборудования (до 13 апр)
+2. Здоровье — медосмотр (ОАК, липиды, ЭКГ) + бассейн 2x/нед
 
 ### Pipeline/Leads
 <!-- If applicable -->
-- [Lead name] — [status]
+- Кредит — рассчитать остаток + график погашения (до 13 апр)
 
 ## Key People
 
@@ -72,4 +73,4 @@ Curated knowledge that persists across sessions. Part of the 3-layer memory arch
 
 ---
 
-*Last updated: YYYY-MM-DD*
+*Last updated: 2026-04-08*
