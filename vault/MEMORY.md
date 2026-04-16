@@ -56,6 +56,7 @@ Curated knowledge that persists across sessions. Part of the 3-layer memory arch
 
 ### Health Context
 - Вес: 99,1 кг (2026-04-14)
+- Бассейн: 1-я тренировка нед16 (2026-04-16) — 18 бассейнов с перерывами ✅
 
 ## Key People
 
